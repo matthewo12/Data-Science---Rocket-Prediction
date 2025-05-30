@@ -1,3 +1,6 @@
+## 📁 Project Structure
+
+```text
 spacex-landing-prediction/
 │
 ├── README.md                  # Project overview and instructions
